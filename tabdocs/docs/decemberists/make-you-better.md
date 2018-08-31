@@ -92,7 +92,7 @@ A                          G              D
 And won't it all just come around to make you
 G                       D              A
 Let it all un-break you to the day that you met her
-             G    
+             G
 And it'd make you better
               Bm        G   D  A  (2x)
 Did it make you better
@@ -118,9 +118,9 @@ A                          G              D
 And won't it all just come around to make you
 G                       D              A
 Let it all un-break you to the day you met her
-             G    
+             G
 But it'd make you better
               Bm*    D*  G*
-It'd make you better﻿
+It'd make you better
 
 Fade out with intro

@@ -1,13 +1,5 @@
-#----------------------------------PLEASE NOTE--------------------------------#
-#This file is the author's own work and represents their interpretation of the#
-#song. You may only use this file for private study, scholarship, or research.#
-#-----------------------------------------------------------------------------#
+# What jail is Like
 
-From: "Manuel Zanzi" 
-Subject: a/afgnan_whigs/what_jail_is_like.crd
-Date: Tue, 02 Jun 1998 03:16:18 PDT
-
-What jail is Like
 By Afghan Whigs
 Written By: Greg Dulli
 Album: Gentlemen
