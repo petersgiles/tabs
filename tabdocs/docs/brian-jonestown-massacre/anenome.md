@@ -1,60 +1,96 @@
 # ANENOME
 
 Artist: [The Brian Jonestown Massacre](../artists.md)
+
 Title: Anenome
+
 Album: Their Satanic Magesties' Second Requests
 
-CHORDS USED (E-A-D-G-B-E)
-E (0-2-2-1-0-0)---|
-E? (0-2-0-1-0-0)---|
-G (3-2-0-0-0-3)----|
-A (0-0-2-2-2-0)----|
-Asus (0-0-2-0-2-0)-|
+## Chords
 
-chords played like this (not correct rhythm):
+<div class="vex-tabdiv"
+    width=680 scale=1.0 editor="true"
+    editor_width=680 editor_height=330>
+options space=10 font-size=12
 
-E E? E G A Asus A Asus
-e-0-0-00-0-0--11--0-0-00-0-0-00--|
-B-0-0-00-0-0--00--2-2-22-2-2-22--|
-G-1-1-11-1-1--00--2-2-00-2-2-00--|
-D-2-2-00-2-2--00--2-2-22-2-2-22--|
-A-2-2-22-2-2--22--0-0-00-0-0-00--|
-E-0-0-00-0-0--33--0-0-00-0-0-00--|
+tabstave notation=true
+  notes :q (1/3.2/4.2/5) :q (1/3.2/4.2/5) :q (1/3.2/5) :q (1/3.2/5) | 
+  notes :q (1/3.2/4.2/5) :q (1/3.2/4.2/5) :q (3/1.2/5.3/6) :q (3/1.2/5.3/6) |
+  text :h,.1,E,E7,|
+  text :h,.1,E,G,|
 
+tabstave notation=true
+  notes :q (2/2.2/3.2/4) :q (2/2.2/3.2/4) :q (2/2.2/4) :q (2/2.2/4) | 
+  notes :q (2/2.2/3.2/4) :q (2/2.2/3.2/4) :q (2/2.2/4) :q (2/2.2/4) | 
+  text :h,.1,A,Asus,|
+  text :h,.1,A,Asus,|
+
+options space=15
+
+</div>
+
+## Solo/Intro in all variations
+
+<div class="vex-tabdiv"
+    width=680 scale=1.0 editor="true"
+    editor_width=680 editor_height=330>
+options space=10 font-size=12 
+        tab-stems=true tab-stem-direction=up
+
+tabstave notation=true
+   notes 7-5/4 7-5h7/5 5-5h7/5 5h7/5 5/4 7/5 7/4 5-5h7/4 7-5/4 7-5h7-5-5h7/5 5-3-0/6 3-5-0/6 |
+
+options space=15
+</div>
+
+<div class="vex-tabdiv"
+    width=680 scale=1.0 editor="true"
+    editor_width=680 editor_height=330>
+options space=10 font-size=12 
+        tab-stems=true tab-stem-direction=up
+
+tabstave notation=true
+   notes 7-5/4 7-5h7/5 5-5h7/5 5h7/5 5h7/5 5/4 7/5 7/4 5-5h7b9/4 7/3 9/4 9/3 9/3 8/2 9/3 8/2 9/3 7/2 9/3 7/2 7h8h10/2 |
+
+options space=15
+
+</div>
+
+<div class="vex-tabdiv"
+    width=680 scale=1.0 editor="true"
+    editor_width=680 editor_height=330>
+options space=10 font-size=12 
+        tab-stems=true tab-stem-direction=up
+
+tabstave notation=true
+  notes 10b12/2 10/1 12/2 12/1 12/2 12/1 12/2 10p8/2 9-7-7h9/3 8/2 9/3 8/2 9/3 7/2 9/3 7/2 |
+
+options space=15
+</div>
+
+## Lyrics
 
 E G A
+
 I... I think I know how i feel
+
 E G A
+
 cause i...i only play it for real
+
 E
+
 you should be picking me up
+
 G A
+
 instead youre dragging me down
+
 E
+
 your flying over my head
+
 G A
+
 youre landing all over town
 
-
-Solo/Intro in all variations:
-
-e-------------------------------------------------------------------|
-B-------------------------------------------------------------------|
-G-------------------------------------------------------------------|
-D-7-5-------------------5-7^^-5-5h7--7-5----------------------------|
-A------7-5h7-5-5h7---5h7-7----------------7-5h7-5-5h7---------------|
-E------------------------------------------------------5-3-0--3-5-0-|
-
-e------------------------------------------------------------|
-B-------------------------------------------8-8-7-7-7h8h10---|
-G----------------------------------7-9-----9-9-9-9-----------|
-D-7-5-------------------5-7^^-5-7/9-9------------------------|
-A------7-5h7-5-5h7---5h7-7-----------------------------------|
-E------------------------------------------------------------|
-
-e------10--12-----12-----------------------------------------|
-B-10/12--12-----12--12---10^^p8-------8-8-7-7----------------|
-G------------------------------9-7-7h9-9-9-9-----etc.--------|
-D------------------------------------------------------------|
-A------------------------------------------------------------|
-E------------------------------------------------------------|
