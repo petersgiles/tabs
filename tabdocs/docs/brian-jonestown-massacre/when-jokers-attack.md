@@ -11,8 +11,7 @@ Album: And This Is Our Music
 ## Chords
 
 <div class="vex-tabdiv"
-    width=680 scale=1.0 editor="true"
-    editor_width=680 editor_height=330>
+    width=680 scale=1.0>
 
 options space=10 font-size=12
 

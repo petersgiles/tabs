@@ -11,8 +11,7 @@ Album: Their Satanic Magesties' Second Requests
 ## Chords
 
 <div class="vex-tabdiv"
-    width=680 scale=1.0 editor="true"
-    editor_width=680 editor_height=330>
+    width=680 scale=1.0>
 options space=10 font-size=12
 
 tabstave notation=true
@@ -33,10 +32,22 @@ options space=15
 
 ## Solo/Intro in all variations
 
+Riff is played loosely throughtout song, solo in penatonic scale
+
 <div class="vex-tabdiv"
-    width=680 scale=1.0 editor="true"
-    editor_width=680 editor_height=330>
-options space=10 font-size=12 
+    width=680 scale=1.0>
+
+options space=10 font-size=12
+
+tabstave
+  notes :16 0h2/5 0/4 0/6 2p0/3 2/4 0/3 0h2/4 0-0-2p0/3 2/4 2s4/3 3/2 4/3 3h5/2 | 2s4/3 3/2 4/3 3h5-5-5-5/2 3/1 5/2 3/1 5/2 2/1 5/2 2/1 5/2|
+  text :w,.1,E,|,A
+
+options space=15
+</div>
+
+<div class="vex-tabdiv" width=680 scale=1.0>
+options space=10 font-size=12
         tab-stems=true tab-stem-direction=up
 
 tabstave notation=true
@@ -45,9 +56,7 @@ tabstave notation=true
 options space=15
 </div>
 
-<div class="vex-tabdiv"
-    width=680 scale=1.0 editor="true"
-    editor_width=680 editor_height=330>
+<div class="vex-tabdiv" width=680 scale=1.0>
 options space=10 font-size=12 
         tab-stems=true tab-stem-direction=up
 
@@ -58,9 +67,7 @@ options space=15
 
 </div>
 
-<div class="vex-tabdiv"
-    width=680 scale=1.0 editor="true"
-    editor_width=680 editor_height=330>
+<div class="vex-tabdiv" width=680 scale=1.0>
 options space=10 font-size=12 
         tab-stems=true tab-stem-direction=up
 
@@ -72,27 +79,15 @@ options space=15
 
 ## Lyrics
 
-E G A
-
-I... I think I know how i feel
-
-E G A
-
-cause i...i only play it for real
-
-E
-
-you should be picking me up
-
-G A
-
-instead youre dragging me down
-
-E
-
-your flying over my head
-
-G A
-
-youre landing all over town
-
+E G A  
+I... I think I know how i feel  
+E G A  
+cause i...i only play it for real  
+E  
+you should be picking me up  
+G A  
+instead youre dragging me down  
+E  
+your flying over my head  
+G A  
+youre landing all over town  
