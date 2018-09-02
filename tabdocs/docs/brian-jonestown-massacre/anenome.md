@@ -6,6 +6,8 @@ Title: Anenome
 
 Album: Their Satanic Magesties' Second Requests
 
+[youtube](https://www.youtube.com/watch?v=7MoVTz-gqBk)
+
 ## Chords
 
 <div class="vex-tabdiv"

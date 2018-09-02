@@ -1,7 +1,9 @@
 # Welcome to My Tabs
 
-https://github.com/0xfe/vextab
+[This site](https://petersgiles.github.io/tabs)
 
-http://my.vexflow.com/articles/134
+[http://www.metalhead.ro](http://www.metalhead.ro)
 
-https://petersgiles.github.io/tabs
+[vextab](https://github.com/0xfe/vextab)
+
+[help](http://my.vexflow.com/articles/134)

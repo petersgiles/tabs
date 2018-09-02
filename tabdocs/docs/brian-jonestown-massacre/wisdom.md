@@ -6,6 +6,8 @@ Title: Wisdom
 
 Album: My Bloody Underground
 
+[youtube](https://www.youtube.com/watch?v=7J5l-PGg9fA)
+
 ## Chords
 
 F# C# E B A (Repeat Until End)
@@ -13,16 +15,18 @@ F# C# E B A (Repeat Until End)
 <div class="vex-tabdiv"
     width=680 scale=1.0 editor="true"
     editor_width=680 editor_height=330>
+
 options space=10 font-size=12
 
-tabstave notation=true
-  notes :q (2/6.4/5.4/4.3/3.2/2.2/1) :q (9/6.11/5.11/4.10/3.9/2.9/1) :q (1/3.2/4.2/5) :q (7/6.9/5.9/4.8/3.7/2.7/1) |
-  notes :q (5/6.7/5.7/4.6/3.5/2.5/1) |
-  text :q,.1,F#,C#,E,B|
-  text :q,.1,A|
+tabstave
+  notes :w (2/6.4/5.4/4.3/3.2/2.2/1) | :w (9/6.11/5.11/4.10/3.9/2.9/1) |
+  text :w,.1,F#,C#
+
+tabstave
+  notes :w (1/3.2/4.2/5) | :q (7/6.9/5.9/4.8/3.7/2.7/1) :q (5/6.7/5.7/4.6/3.5/2.5/1) |
+  text :w,.1,E, :q,.1,B,A
 
 options space=15
-
 </div>
 
 ## Lyrics
