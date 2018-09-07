@@ -7,6 +7,10 @@
 1. [Wisdom](brian-jonestown-massacre/wisdom.md)
 1. [Yeah - Yeah](brian-jonestown-massacre/yeah-yeah.md)
 
+## Decemberists
+
+1. [Make you Better](decemberists/make-you-better.md)
+
 ## Radiohead
 
 1. [Reckoner](radiohead/reckoner.md)
