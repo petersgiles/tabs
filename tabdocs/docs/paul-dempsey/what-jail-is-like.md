@@ -3,7 +3,6 @@
 By Afghan Whigs
 Written By: Greg Dulli
 Album: Gentlemen
-Transcribed and submitted by Manuel Zanzi (manuelzanzi@hotmail.com)
 
 Chords used:
 C#m/G#:  44665x
@@ -52,47 +51,53 @@ D----------------------------------------------------------------|
 A----------------------------------------------------------------|
 E----------------------------------------------------------------|
 
-Lyrics:
+## Lyrics
 
-Intro
+## Intro
 
-Verse1:
-  C#m (x13321@4)            B (x2444x@1)          Ab (xx1114@1)              A (x02220@1)    
-  I'll warn you, if cornered, I'll scratch my way out of the pen
-  C#m (x13321@4)    B (x2444x@1)     Ab (xx1114@1)              A (x02220@1)    
-  Wired, an animal. The claustrophobia begins
-  C#m
-     You think I'm scared of girls, Well maybe
-     But I'm not afraid of you
-     You want to scare me then you'll cling to me no matter what I do
-Verse2:
-  C#m (x13321@4)      B (x2444x@1)       Ab (xx1114@1)            A (x02220@1)    
-  Tell you a secret  They shared a needle once or twice
-  C#m (x13321@4)          B (x2444x@1)          Ab (xx1114@1)          A (x02220@1)    
-  I loved her, she loved me  We slept together a couple of times
-  C#m
-     You think I'm proud of this, Well maybe
-     But the shame you never lose
-     Infatuated with a lunatic and cornered by the muse
-Chorus1:
+## Verse1
+
+  C#m (x13321@4)            B (x2444x@1)          Ab (xx1114@1)              A (x02220@1)  
+  I'll warn you, if cornered, I'll scratch my way out of the pen  
+  C#m (x13321@4)    B (x2444x@1)     Ab (xx1114@1)              A (x02220@1)  
+  Wired, an animal. The claustrophobia begins  
+  C#m  
+     You think I'm scared of girls, Well maybe  
+     But I'm not afraid of you  
+     You want to scare me then you'll cling to me no matter what I do  
+
+## Verse2
+
+  C#m (x13321@4)      B (x2444x@1)       Ab (xx1114@1)            A (x02220@1)  
+  Tell you a secret  They shared a needle once or twice  
+  C#m (x13321@4)          B (x2444x@1)          Ab (xx1114@1)          A (x02220@1)  
+  I loved her, she loved me  We slept together a couple of times  
+  C#m  
+     You think I'm proud of this, Well maybe  
+     But the shame you never lose  
+     Infatuated with a lunatic and cornered by the muse  
+
+## Chorus1
+
  B (x2444x@1)                      C#m (x13321@4)                E (022100@1)  
- And it goes           down every           niiiiiight
-   This must be         what jail is really   liiiiiike
-   And I will scratch my way out of this      peeeeeen,   again
+ And it goes           down every           niiiiiight  
+   This must be         what jail is really   liiiiiike  
+   And I will scratch my way out of this      peeeeeen,   again  
 
 Verse part1
 
-Verse3:
-  C#m (x13321@4)            B (x2444x@1)          Ab (xx1114@1)         A (x02220@1)    
-  Lonely?        Maybe          Or maybe not, It all depends
-  C#m (x13321@4)         B (x2444x@1)          Ab (xx1114@1)         A (x02220@1)    
-  Your ideal, your image     Your definition of a friend
-  C#m
-     If what you're shoveling is company
-     Then I'd rather be alone
-     Resentment always goes much further than it was supposed to go
+## Verse3
 
-Repeat Chorus
+  C#m (x13321@4)            B (x2444x@1)          Ab (xx1114@1)         A (x02220@1)  
+  Lonely?        Maybe          Or maybe not, It all depends  
+  C#m (x13321@4)         B (x2444x@1)          Ab (xx1114@1)         A (x02220@1)  
+  Your ideal, your image     Your definition of a friend  
+  C#m  
+     If what you're shoveling is company  
+     Then I'd rather be alone  
+     Resentment always goes much further than it was supposed to go  
 
-Repeat Verse1 until "an animal".
-end on C#m
+Repeat Chorus  
+
+Repeat Verse1 until "an animal".  
+end on C#m  

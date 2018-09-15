@@ -1,6 +1,6 @@
 # Ode to my Kitten
 
-A Sonnet by Pete
+
 My warmest kitten, you inspire me to write.
 How I love the way you squeak, laugh and giggle,
 Invading my mind day and through the night,
