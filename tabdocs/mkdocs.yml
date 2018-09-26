@@ -2,7 +2,7 @@ site_name: Tab Docs
 pages:
     - Home: index.md
     - Artists: artists.md
-    - About: about.md
+    - Exercises: exercises.md
 theme: 'material'
 extra_css:
   - 'stylesheets/vextab.css'
