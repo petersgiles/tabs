@@ -6,7 +6,7 @@ Title: Yeah - Yeah
 
 Album: My Bloody Underground
 
-[youtube](https://www.youtube.com/watch?v=QzLNekreyY4)
+[video](https://www.youtube.com/watch?v=QzLNekreyY4)
 
 ## Chords
 

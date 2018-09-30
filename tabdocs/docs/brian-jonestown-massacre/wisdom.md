@@ -6,7 +6,7 @@ Title: Wisdom
 
 Album: My Bloody Underground
 
-[youtube](https://www.youtube.com/watch?v=7J5l-PGg9fA)
+[video](https://www.youtube.com/watch?v=7J5l-PGg9fA)
 
 ## Chords
 

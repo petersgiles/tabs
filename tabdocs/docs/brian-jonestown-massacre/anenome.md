@@ -4,7 +4,7 @@ Artist: [The Brian Jonestown Massacre](../artists.md)
 Title: Anenome  
 Album: Their Satanic Magesties' Second Requests  
 
-[youtube](https://www.youtube.com/watch?v=7MoVTz-gqBk)
+[video](https://www.youtube.com/watch?v=7MoVTz-gqBk)
 
 ## Chords
 

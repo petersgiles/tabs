@@ -6,7 +6,7 @@ Title: When Jokers Attack
 
 Album: And This Is Our Music
 
-[youtube](https://www.youtube.com/watch?v=HeLepdqMPMk)
+[video](https://www.youtube.com/watch?v=HeLepdqMPMk)
 
 ## Chords
 

@@ -3,7 +3,7 @@
 Artist: [The Brian Jonestown Massacre](../artists.md)  
 Title: Straight Up and Down  
 
-[youtube](https://www.youtube.com/watch?v=45HPaTF0u7U)
+[video](https://www.youtube.com/watch?v=45HPaTF0u7U)
 
 Standard tuning, pretty straight forward and repeats itself often.
 
