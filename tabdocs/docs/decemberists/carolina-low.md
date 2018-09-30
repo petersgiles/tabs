@@ -7,6 +7,8 @@
 
 ## Tuning
   
+F1058E14AB
+
   DADGBE - Drop D
 
 ## Picking pattern

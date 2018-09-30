@@ -8,6 +8,10 @@
 1. [Wisdom](/brian-jonestown-massacre/wisdom.md)
 1. [Yeah - Yeah](/brian-jonestown-massacre/yeah-yeah.md)
 
+## Cake
+
+1. [Mahna Mahna](/cake/mahna-mahna.md)
+
 ## Decemberists
 
 1. [Carolina Low](/decemberists/carolina-low.md)
