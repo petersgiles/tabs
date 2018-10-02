@@ -1,30 +1,29 @@
-# Under The Milky Way chords by The Church
+# Under The Milky Way
+
+Artist: The Church
 
 Tuning: E A D G B E
-
-STRUMMING
- 138 bpm
-1
-&
-2
-&
-3
-&
-4
-&
-5
-&
-6
-&
-7
-&
-8
-&
-[Intro]
 
 Am  Asus4  Fmaj7  G (x2)
 
 [Verse]
+
+<div class="vex-tabdiv"
+    width=680 scale=1.0>
+
+options space=10 font-size=12
+
+tabstave notation=true
+  notes :8 (2/4.2/3.1/2) (2/4.2/3.1/2) :16 (2/4.2/3.1/2) (2/4.2/3.1/2) (2/4.2/3.1/2) ^3^ (2/4.3/2) :16 (2/4.3/2) (2/4.3/2) :8 (2/4.3/2) ^3^ :16 (2/4.3/2) (2/4.3/2) :8 (2/4.3/2) ^3^
+  text :h, Am, A7sus
+
+tabstave notation=true
+  notes :8 (3/4.2/3.1/2) (3/4.2/3.1/2) :16 (3/4.2/3.1/2) (3/4.2/3.1/2) (3/4.2/3.1/2) ^3^ (3/6.2/5.3/1) :16 (3/6.2/5.3/1) (3/6.2/5.3/1) :8 (3/6.2/5.3/1) ^3^ :16 (3/6.2/5.3/1) (3/6.2/5.3/1) :8 (3/6.2/5.3/1) ^3^
+  text :h, F, G
+
+options space=15
+
+</div>
 
 Am                    Asus4              Fmaj7      G
   Sometimes when this place gets kind of empty

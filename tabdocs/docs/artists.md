@@ -27,6 +27,10 @@
 
 1. [Reckoner](/radiohead/reckoner.md)
 
+## The Church
+
+1. [Under the Milky Way](/the-church/under-the-milkyway.md)
+
 ## The Shins
 
 1. [New Slang](/the-shins/new-slang.md)
