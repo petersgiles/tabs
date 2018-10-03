@@ -8,3 +8,4 @@ extra_css:
   - 'stylesheets/vextab.css'
 extra_javascript:
   - 'javascripts/vextab-div.js'
+  - 'javascripts/vextab-fretboard.js'

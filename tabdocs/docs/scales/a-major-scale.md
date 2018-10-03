@@ -1,5 +1,11 @@
 # A Major Scale
 
+    fretboard
+    show frets=3,4,5 string=1
+    show frets=3,4,5 string=2 color=red
+    show fret=3 string=6 text=G
+    show notes=10/1,10/2,9/3,9/4
+
 <div class="vex-tabdiv"
     width=680 scale=1.0
     >
