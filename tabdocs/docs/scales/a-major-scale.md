@@ -1,10 +1,21 @@
 # A Major Scale
 
+
+<div class="vex-fretboarddiv" editor=true
+    width=680 scale=1.0
+    >
+
+options space=10 font-size=12
+
     fretboard
     show frets=3,4,5 string=1
     show frets=3,4,5 string=2 color=red
     show fret=3 string=6 text=G
     show notes=10/1,10/2,9/3,9/4
+
+options space=15
+</div>
+
 
 <div class="vex-tabdiv"
     width=680 scale=1.0

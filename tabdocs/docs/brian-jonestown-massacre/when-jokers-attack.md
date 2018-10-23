@@ -32,9 +32,9 @@ Dm F F C G x2
 
 options space=10 font-size=12
 
-tabstave
-  notes :q 5h7/4 5-7/3 7-5-7-7s9/3 7/3-7s9s7/3 5-5-5h7/3 5/4 8-8-8-8-8-8-6-6s7s6/3 |
-  text :w,.1,Dm,|,F,|,C,|,G,|,G
+tabstave notation=true
+  notes =|: :16 5h7/4 5/3 7-7/3 5-7-7s9/3 ^3^ 7/3 7s9s7/3 ^3^ 5-5/3 5h7/3 5/4 =:| :q 8-8-8-8-8-8-6-6s7s6/2 |
+  text :q,.1,Dm,|,F,|,C,|,G,|,G
 
 options space=15
 </div>
