@@ -17,6 +17,10 @@
 1. [Carolina Low](/decemberists/carolina-low.md)
 1. [Make you Better](/decemberists/make-you-better.md)
 
+## Joy Division
+
+1. [Shaowplay](/joy-division/shadowplay.md)
+
 ## Paul Dempsey
 
 1. [Have You Fallen Out Of Love](/paul-dempsey/have-you-fallen-out-of-love.md)
