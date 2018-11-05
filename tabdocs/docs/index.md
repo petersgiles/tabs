@@ -4,6 +4,7 @@
 
 ## My Stuff
 
+1. [Three Sisters](/me/three-sisters.md)
 1. [Weird Feet](/me/weird-feet.md)
 
 ## Help
@@ -15,3 +16,5 @@
 ## Good tab sites
 
 [http://www.metalhead.ro](http://www.metalhead.ro)
+
+[100-riffs](https://www.soundslice.com/scores/100-riffs/)
