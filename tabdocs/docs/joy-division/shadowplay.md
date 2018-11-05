@@ -4,6 +4,9 @@
   Song: Shadowplay
 
   [video](https://www.youtube.com/watch?v=3w7ANAKJrMo)  
+  [video](https://www.youtube.com/watch?v=HZJxNVrrqSw)
+
+[tutorial](https://www.anyonecanplayguitar.co.uk/shadowplay/)
 
 ## Tuning & Tempo
   

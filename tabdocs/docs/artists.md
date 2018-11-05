@@ -3,6 +3,7 @@
 ## The Brian Jonestown Massacre
 
 1. [Anenome](/brian-jonestown-massacre/anenome.md)
+1. [Memory Camp](/brian-jonestown-massacre/memory-camp.md)
 1. [Straight Up and Down](/brian-jonestown-massacre/straight-up-and-down.md)
 1. [When Jokers Attack](/brian-jonestown-massacre/when-jokers-attack.md)
 1. [Wisdom](/brian-jonestown-massacre/wisdom.md)
