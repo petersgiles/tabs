@@ -11,3 +11,23 @@ mkdocs serve
 ## Deploy
 
 mkdocs gh-deploy
+
+## Music Autofill
+
+### Setup
+
+brew install libmagic
+
+python -m venv music_autofill
+source music_autofill/bin/activate
+
+pip3 install eyed3
+pip3 install libmagic
+
+### VENV
+
+source music_autofill/bin/activate
+
+python music_autofill.py -p "/Users/petergiles/CloudStation/iTunes/Music" -u /Users/petergiles/Music/tmp -s 1000 -c
+
+python music_autofill.py -p "music_dir" -u /Volumes/USB\ DISK/ -g  -s 200  -c
