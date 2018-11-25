@@ -28,6 +28,6 @@ pip3 install libmagic
 
 source music_autofill/bin/activate
 
-python music_autofill.py -p "/Users/petergiles/CloudStation/iTunes/Music" -u /Users/petergiles/Music/tmp -s 1000 -c
+python music_autofill.py -p "/Users/xxx/CloudStation/iTunes/Music" -u /Users/xxx/Music/tmp -s 1000 -c
 
 python music_autofill.py -p "music_dir" -u /Volumes/USB\ DISK/ -g  -s 200  -c
