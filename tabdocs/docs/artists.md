@@ -30,8 +30,11 @@
 
 1. [Henry's Dream](/nick-cave/henrys-dream/index.md)
     1. [Brother My Cup is Empty](/nick-cave/henrys-dream/brother-my-cup-is-empty.md)
+    1. [Jack the Ripper](/nick-cave/henrys-dream/jack-the-ripper.md)
     1. [Papa Won't Leave You Henry](/nick-cave/henrys-dream/papa-wont-leave-you-henry.md)
+    1. [Straight to You](/nick-cave/henrys-dream/straight-to-you.md)
     1. [When I First Came to Town](/nick-cave/henrys-dream/when-i-first-came-to-town.md)
+1. [Jubilee Streey](/nick-cave/jubilee-street.md)
 
 ## Paul Dempsey
 
