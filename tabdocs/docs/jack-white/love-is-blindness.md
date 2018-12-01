@@ -8,59 +8,59 @@ Bbm Ab F# Ebm Bbm F Bbm
 
 Capo 1st Fret
 
-     Am       Gmaj       F      Dsus2     E      A#m/F
-e|---0----------3--------1--------0-------0-------1---------------------------------|
-B|---1----------3--------1--------3-------0-------2---------------------------------|
-G|---2----------4--------2--------2-------1-------3---------------------------------|
-D|---2----------5--------3--------0-------2-------3---------------------------------|
-A|---0----------5--------3--------0-------2-------1---------------------------------|
-E|---0----------3--------1--------0-------0-------1---------------------------------|
+     Am       Gmaj       F      Dsus2     E      A#m/F  
+e|---0----------3--------1--------0-------0-------1---------------------------------|  
+B|---1----------3--------1--------3-------0-------2---------------------------------|  
+G|---2----------4--------2--------2-------1-------3---------------------------------|  
+D|---2----------5--------3--------0-------2-------3---------------------------------|  
+A|---0----------5--------3--------0-------2-------1---------------------------------|  
+E|---0----------3--------1--------0-------0-------1---------------------------------|  
 
 [Chorus]
 
-Am
-Love is blindness,  
-           Gmaj
-I don't want to see  
-                F                      Dsus2
-Won't you wrap the night around me?  
-Am        E
-Oh, my heart,  
-           Am
-Love is blindness.  
+Am  
+Love is blindness,    
+           Gmaj  
+I don't want to see    
+                F                      Dsus2  
+Won't you wrap the night around me?    
+Am        E  
+Oh, my heart,    
+           Am  
+Love is blindness.    
 
+  
+[Verse 1]    
 
-[Verse 1]  
-
-Am
-I'm in a parked car,  
-         Gmaj
-On a crowded street   
-         F
-And I see my love   
-  Dsus2
-Made complete.  
-                    Am
+Am  
+I'm in a parked car,    
+         Gmaj  
+On a crowded street     
+         F  
+And I see my love     
+  Dsus2  
+Made complete.    
+                    Am  
 The thread is ripping,   
-                 E
+                 E  
 the knot is slipping   
-            Am
+            Am  
 Love is blindness. 
 
 
-[Verse 2]
+[Verse 2]  
  
-Am
-Love is clockworks  
-          Gmaj
+Am  
+Love is clockworks    
+          Gmaj  
 and is cold steel   
-F              Dsus2
-Fingers too numb to feel.  
-                 Am
+F              Dsus2  
+Fingers too numb to feel.    
+                 Am  
 Squeeze the handle,    
-                  E
+                  E  
 blow out the candle   
- Am
+ Am  
 Blindness (blindness) 
 
 

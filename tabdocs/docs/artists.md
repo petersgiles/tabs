@@ -18,9 +18,20 @@
 1. [Carolina Low](/decemberists/carolina-low.md)
 1. [Make you Better](/decemberists/make-you-better.md)
 
+## Jack White
+
+1. [Love is Blindness](/jack-white/love-is-blindness.md)
+
 ## Joy Division
 
 1. [Shaowplay](/joy-division/shadowplay.md)
+
+## Nick Cave
+
+1. [Henry's Dream](/nick-cave/henrys-dream/index.md)
+    1. [Brother My Cup is Empty](/nick-cave/henrys-dream/brother-my-cup-is-empty.md)
+    1. [Papa Won't Leave You Henry](/nick-cave/henrys-dream/papa-wont-leave-you-henry.md)
+    1. [When I First Came to Town](/nick-cave/henrys-dream/when-i-first-came-to-town.md)
 
 ## Paul Dempsey
 
