@@ -9,3 +9,4 @@ extra_css:
 extra_javascript:
   - 'javascripts/vextab-div.js'
   - 'javascripts/vextab-fretboard.js'
+  - 'javascripts/alphatab/alphaTab.core.js'

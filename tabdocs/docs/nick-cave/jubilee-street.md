@@ -5,11 +5,13 @@
 Main guitar (repeated throughout the song)  
 
 <div class="vex-tabdiv"
-    width=680 scale=1.0>
+    width=680 scale=1.0 editor="true"
+    editor_width=680 editor_height=330 player="true">
+
 options space=10 font-size=12
 
-tabstave notation=true
-  notes :8 4/6 6/5 5/3 3/4 3/3 3/4 3s8/5 10/4 10/3 | 10/3 10/4 8/5 10s8/4 6/5 8/4 8/3 (6/5.8/4.8/3) (6/5.8/4.8/3) 3/5 5/4 5/3 | 5/3 5/4 3/5 5/3 5/4 3/5 5/3 5/4 3/5
+tabstave notation=true key=Eb time=4/4
+      notes :q 4/6 :8 6/5 :q 5/3 :8 3/4 3/3 3/4 3s8/5 10/4 | :q 10/3 10/4 8/5 10s8/4 6/5 8/4 8/3 (6/5.8/4.8/3) (6/5.8/4.8/3) 3/5 5/4 5/3 | 5/3 5/4 3/5 5/3 5/4 3/5 5/3 5/4 3/5
 
 options space=15
 
@@ -41,13 +43,17 @@ E|-----------------------------------------|------------------------------------
     
 
 Guitar Chords (played on a acoustic guitar) @ 2:55  
-    Ab    F5     Eb5   C5  
-e|--4-----8------6-----3--|  
-B|--4-----8------6-----3--|  
-G|--5-----10-----8-----5--|  
-D|--6-----10-----8-----5--|  
-A|--6-----8------6-----3--|  
-E|--4-----8------6-----3--|  
+
+<div class="vex-tabdiv"
+    width=680 scale=1.0>
+options space=10 font-size=12
+
+tabstave
+  notes :q (4/6.6/5.6/4.5/3.4/2.4/1) (8/6.8/5.10/4.10/3.8/2.8/1) (6/6.6/5.8/4.8/3.6/2.6/1) (3/6.3/5.5/4.5/3.3/2.3/1)
+  text :q,.1,Ab,F5,Eb5,C5
+options space=15
+
+</div>
   
 Ab                F5  
  The problem was  

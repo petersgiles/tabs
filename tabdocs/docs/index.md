@@ -2,6 +2,10 @@
 
 [This site](https://petersgiles.github.io/tabs)
 
+## Lists
+
+1. [Top 100 Solos](/lists/top-hundred-solo.md)
+
 ## My Stuff
 
 1. [Three Sisters](/me/three-sisters.md)
