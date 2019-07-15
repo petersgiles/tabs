@@ -16,7 +16,7 @@ Am                 G                    F                    E
 [Then breaks into flamenco style fast! play at your own speed, it still sounds decent 
 at half their speed. Note this is just based off what i hear, they might have added some 
 licks.]
-
+```
                                                            ^same lick but quieter
 e|------------------------------0-1-4------0h1h0--0--1h0-0--------------|
 B|--------------------------1-4-----------------3-------3-(6h5h3h5)-----|
@@ -95,3 +95,4 @@ and repeat parts above when repeat themselves
 | b  Bend
 
 ************************************
+```
