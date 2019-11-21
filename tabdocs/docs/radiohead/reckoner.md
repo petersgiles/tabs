@@ -33,7 +33,7 @@ options space=15
 </div>
 
 ## Verse
-
+```
                       Reeeeeeeeeeeeeckon  errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr  
 --0-------------------0-------------------0----------------0--------------------0---------------  
 --5-------------------8-------------------7----------------5----------------10--8---------------  
@@ -106,7 +106,7 @@ options space=15
 --5-------------------9-------------------7----------------7----------------  
 --3-------------------7-------------------5----------------7----------------  
 -----------------------------------------------------------5----------------  
-
+```
 ## Bridge
 
 
@@ -123,7 +123,7 @@ options space=15
 </div>
 
 ## Chorus  
-
+```
 Becaaaaaaaaaaause we seeeeeeeeeeeeeeeeeparaaaaaaaaaaaaaaaaaate  Like ripples on a  
 --0------------------0--------------------x------------------------------------------  
 --0------------------0--------------------0------------------------------------------  
@@ -166,9 +166,9 @@ Becaaaaaaaaaaause we seeeeeeeeeeeeeeeeeparaaaaaaaaaaaaaaaaaate  Like ripples on 
 --10-----------------7---------------------9-----------------------------------------  
 --10-----------------0---------------------9-----------------------------------------  
 --8----------------------------------------7-----------------------------------------  
-
+```
 ## Verse
-
+```
   (Mmmmmmm)           Reeeeeeeeeeeeeckon  errrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr  
 --0-------------------0-------------------0----------------0--------------------0----  
 --5-------------------8-------------------7----------------5----------------10--8----  
@@ -200,9 +200,10 @@ Becaaaaaaaaaaause we seeeeeeeeeeeeeeeeeparaaaaaaaaaaaaaaaaaate  Like ripples on 
 --5-------------------9-------------------7----------------7----------------  
 --3-------------------7-------------------5----------------7----------------  
 -----------------------------------------------------------5----------------  
-
+```
 ## Outro
 
+```
 Awwwwwwwwwwwwwwwwwwww Awwwwwwwwwwwwwwwwww Awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww  
 --0----0----0----0----0----0----0----0----0----0----0----0----0----0----0----0------  
 --0----0----0----0----0----0----0----0----0----0----0----0----0----0----0----0------  
@@ -210,3 +211,99 @@ Awwwwwwwwwwwwwwwwwwww Awwwwwwwwwwwwwwwwww Awwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 --7----5----7----5----7----5----7----5----7----9----7----9----7----9----7----9------  
 --7----7----7----7----x----x----x----x----7----7----7----7----7----7----7----7------  
 --0----0----0----0----7----7----7----7----8----8----8----8----8----8----8----8------  
+```
+
+```
+
+The chords are definitely 100% CORRECT, according to the acoustic version.
+
+CHORDS.
+
+C      x35050
+E      x79080
+E2     x9x0100
+D      x57070
+D2     x57080
+A      57x600
+G#m    466400
+G      355400
+Am     x07500
+C2     81010900
+E3     11x91100
+B      x24442 or 799877
+E4     077700
+E5     075700
+B2     7x7700
+B3     7x5700
+C3     877700
+C4     879700
+
+In between the D's in the verses just throw in the D2 here and there.
+
+Sorry, too lazy to find out their real names.
+Not like it really matters anyway.
+
+
+
+[Intro]
+
+C  E  D
+C  E2 E
+C  E  D D2 D
+C  E2 E  C
+
+[Verse]
+
+E    D    C  E  C
+Reckoner
+E           D            C  E2  E  C
+You can't take it with you
+E         D           C  E2  E  C
+Dancing for your pleasure
+
+E     D     A      C
+
+E           D            C  E2  E  C
+You are not to blame for
+E           D            C  E2  E  C
+Bittersweet distractor
+E           D            C  E2  E  C
+Dare not speak its name
+E           D            C  E2  E  
+Dedicated to all you
+C       E       D       A       G#m     G
+all human beings
+Am      C2      E3
+Because we separate like
+         C2     Am      B
+ripples on a blank shore
+G#m     G
+(in rainbows)
+Am       C2        E3
+Because we separate like
+           C2      Am        B
+ripples on a blank shore
+C       E       D
+Reckoner
+
+C       E2 E    C
+
+E       D      C       E2 E     C
+Take me with you
+
+
+E       D      C       E
+Dedicated to all you
+C       E      D        A
+all human beings
+
+E4 E5 B2 B3 C3 C4 x4
+
+
+End with E5: 022xxx
+By helping UG you make the world better... and earn IQ
+Please rate this tab
+ 
+
+
+```

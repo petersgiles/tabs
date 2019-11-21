@@ -5,6 +5,6 @@ pages:
     - Exercises: exercises.md
 theme: 'material'
 extra_css:
-  - 'https://raw.githubusercontent.com/0xfe/vextab/master/releases/vextab.css'
+  - 'assets/vextab.css'
 extra_javascript:
-  - 'https://raw.githubusercontent.com/0xfe/vextab/master/releases/vextab-div.js'
+  - 'assets/vextab-div.js'
